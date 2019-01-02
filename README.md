@@ -1,3 +1,1 @@
-"# karpickaya.github.io" 
-
-<https://tr.im/karpickaya>
+https://dziaineka.github.io/karpickaya/
